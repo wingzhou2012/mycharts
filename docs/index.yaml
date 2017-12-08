@@ -2,11 +2,19 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2017-12-08T00:35:54.21138616-08:00
+    created: 2017-12-08T01:20:04.650027427-08:00
+    description: A Helm chart for Kubernetes
+    digest: e5784bf7a9dd9e5af8df11bab44347f1d1fe12fe80a5155de7376a91fb7a81c4
+    name: notificationchart
+    urls:
+    - https://wingzhou2012.github.io/mycharts/notificationchart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2017-12-08T01:20:04.649800425-08:00
     description: A Helm chart for Kubernetes
     digest: b4e80bd32954711f2cc90ec8ffb48591eac9ba41c8799a477671fa1183e87b3b
     name: notificationchart
     urls:
     - https://wingzhou2012.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2017-12-08T00:35:54.209509108-08:00
+generated: 2017-12-08T01:20:04.649354393-08:00
